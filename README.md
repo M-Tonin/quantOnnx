@@ -61,7 +61,9 @@ Esse cinco scripts irão produzir o novos modelos de acordo com o tipo de quanti
 
 
 
-Feito isso, o modelo está quantizado e depois disso começa a etapa de validação do modelo.
+Feito isso, o modelo está quantizado e depois disso começa a etapa de validação do modelo. 
+
+Para verificar se a quantização deu certo costumo usar o Netron para abrir um .onnx e verificar sua estrutura.
 
 [  .... .... ]
 
